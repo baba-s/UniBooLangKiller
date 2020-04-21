@@ -1,6 +1,6 @@
 # Uni Boo Lang Killer
 
-* using Boo.Lang のコード補完を無効化するエディタ拡張
+using Boo.Lang のコード補完を無効化するエディタ拡張
 
 ## 使用例
 
