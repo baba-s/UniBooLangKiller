@@ -5,7 +5,7 @@ using System.Text;
 using System.Xml.Linq;
 using UnityEditor;
 
-namespace UniBooLangKiller
+namespace Kogane
 {
 	[InitializeOnLoad]
 	internal static class BooLangKiller
